@@ -1,0 +1,6 @@
+ Tobiname is an anime streaming project. It uses gogoanime-api by riimuru.
+
+ Tobiname features search by genre method. It uses 'vidcdn' as source for anime
+ and streams using hls-player.
+
+ @AnishSunar719
