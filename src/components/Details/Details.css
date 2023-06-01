@@ -1,0 +1,50 @@
+.details-container {
+	padding: 5rem 14rem;
+}
+
+.details-upper {
+	display: flex;
+	gap: 5rem;
+}
+
+.details-img {
+	width: max-content;
+	height: min-content;
+	border-radius: 12px;
+	border: 2px solid var(--outline-yellow);
+}
+
+.details-h1 {
+	font-size: 42px;
+	color: var(--titles);
+	font-weight: bold;
+}
+
+.details-p {
+	font-size: 18px;
+	margin-top: 0.5rem;
+}
+
+.details-h2 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size: 22px;
+	color: var(--titles);
+}
+
+.details-lower {
+	margin-top: 3rem;
+}
+
+.episodes {
+	display: flex;
+	flex-wrap: wrap;
+    gap:2rem;
+    justify-content: space-between;
+}
+
+.details-lower-p {
+	padding: 1rem;
+	background-color: var(--angels-red);
+    border-radius: 12px;
+}

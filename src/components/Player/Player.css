@@ -1,0 +1,31 @@
+.player-container {
+	margin-top: 1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.player-title {
+	background-color: var(--titles);
+    padding: 6px;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+}
+
+.player {
+	border: 1px solid var(--angels-red);
+}
+
+.lower{
+    display: flex;
+    align-items: center;
+}
+
+.player-button{
+    margin: 3rem;
+    width: max-content;
+    text-align: center;
+    font-size: 22px;
+    position: absolute;
+}

@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  border:none;
+  background-color: black;
+  color: white;
+}
+
+
+:root{
+  --angels-red: #ba0021;
+  --outline-yellow: #ffc72c;
+  --titles: #E52B50;
+}
